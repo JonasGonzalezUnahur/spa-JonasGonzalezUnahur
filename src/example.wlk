@@ -27,3 +27,5 @@ object bruno{
 		esFeliz = false
 	}
 }
+
+// self es una palabra clave
